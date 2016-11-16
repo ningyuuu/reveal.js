@@ -1323,3 +1323,11 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+.nyorange {
+  color: orange;
+}
+
+.nygrey {
+  color: #555;
+}
